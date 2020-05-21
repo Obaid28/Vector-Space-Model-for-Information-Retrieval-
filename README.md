@@ -1,2 +1,2 @@
 # Vector-Space-Model-for-Information-Retrieval-
- Implemented a VSM using tf-idf scoring.  This model can process vector queries . 
+ A collection of Trump Speeches from All of Trump's Speeches from June 2015 to November 9, 2016 is used as a dataset in this assignment . This assignment focuses on Vector Space Model(VSM) for information retrieval. Term feature selection is implemented based on Term Frequency (tf) and Document Frequency (df) scoring. Weighting scheme used for VSM is tf-idf . Cosine Similarity is used to calculate the score. 
